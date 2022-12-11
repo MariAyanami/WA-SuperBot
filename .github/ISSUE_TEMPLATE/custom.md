@@ -1,0 +1,2 @@
+---
+name: Custom issue templa
