@@ -2,4 +2,4 @@
 
 ## Our Pledge
 
-We as memb
+We as members, contributors, and leaders pledge to make partici
