@@ -19,4 +19,5 @@ community include:
 
 * Demonstrating empathy and kindness toward other people
 * Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gra
+* Giving and gracefully accepting constructive feedback
+* Accepting res
