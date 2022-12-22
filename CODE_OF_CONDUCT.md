@@ -27,4 +27,5 @@ community include:
 
 Examples of unacceptable behavior include:
 
-* The use of sexualize
+* The use of sexualized language or imagery, and sexual attention or
+ 
