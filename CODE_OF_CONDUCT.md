@@ -22,4 +22,5 @@ community include:
 * Giving and gracefully accepting constructive feedback
 * Accepting responsibility and apologizing to those affected by our mistakes,
   and learning from the experience
-* Focusing on w
+* Focusing on what is best not just for us as individuals, but for the
+  overall c
