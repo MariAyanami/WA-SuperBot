@@ -36,4 +36,6 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Enforcement Respons
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and en
