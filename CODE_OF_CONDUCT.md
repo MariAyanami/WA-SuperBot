@@ -44,4 +44,5 @@ response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject
-comments, co
+comments, commits, code, wiki edits, issues, and other contributions that are
+not 
