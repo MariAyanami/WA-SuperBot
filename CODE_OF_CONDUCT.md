@@ -50,4 +50,5 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community space
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially re
