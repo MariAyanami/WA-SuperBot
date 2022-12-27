@@ -50,4 +50,4 @@ decisions when appropriate.
 
 ## Scope
 
-Thi
+This Code of Conduct applies within all community space
