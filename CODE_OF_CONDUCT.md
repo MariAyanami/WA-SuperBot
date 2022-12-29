@@ -58,4 +58,4 @@ representative at an online or offline event.
 
 ## Enforcement
 
-Instances
+Instances of abusive, harassing, or otherwise unacceptable behavior may b
