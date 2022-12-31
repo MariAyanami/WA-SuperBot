@@ -68,4 +68,4 @@ reporter of any incident.
 
 ## Enforcement Guidelines
 
-Communit
+Community leaders will follow these Community Impact Guidelines in de
