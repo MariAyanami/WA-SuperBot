@@ -73,4 +73,5 @@ the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome
