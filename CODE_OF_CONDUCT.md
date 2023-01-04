@@ -77,4 +77,5 @@ the consequences for any action they deem in violation of this Code of Conduct:
 unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A publ
