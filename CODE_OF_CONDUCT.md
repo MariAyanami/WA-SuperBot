@@ -87,4 +87,4 @@ of actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
 interaction with the people involved, including unsolicited interaction with
-th
+those enforcing the Code of Conduct, for a specified
