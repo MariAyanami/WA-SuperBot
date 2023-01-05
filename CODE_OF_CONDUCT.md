@@ -86,4 +86,5 @@ behavior was inappropriate. A public apology may be requested.
 of actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
-interaction with the peop
+interaction with the people involved, including unsolicited interaction with
+th
