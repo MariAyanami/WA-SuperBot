@@ -94,4 +94,5 @@ permanent ban.
 
 ### 3. Temporary Ban
 
-**Community Impact**: A serious violation o
+**Community Impact**: A serious violation of community standards, including
+sustained inappropr
