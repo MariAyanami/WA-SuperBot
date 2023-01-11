@@ -99,4 +99,4 @@ sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public
 communication with the community for a specified period of time. No public or
-private interac
+private interaction with the people involved, including unsoli
