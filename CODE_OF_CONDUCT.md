@@ -107,4 +107,6 @@ Violating these terms may lead to a permanent ban.
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression towar
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A pe
