@@ -105,4 +105,5 @@ Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
-**Community Impact**: Demonstrating a pattern of violation of comm
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropri
