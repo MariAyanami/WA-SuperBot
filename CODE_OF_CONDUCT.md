@@ -115,4 +115,5 @@ the community.
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-vers
+version 2.0, available at
+https://www.contributor-covenant.org/versi
