@@ -114,4 +114,5 @@ the community.
 
 ## Attribution
 
-This Code of Conduct i
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+vers
