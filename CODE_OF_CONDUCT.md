@@ -123,4 +123,4 @@ enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
-For answe
+For answers to common questions about this code of conduct, see the
