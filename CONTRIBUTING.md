@@ -1,1 +1,1 @@
-# Contributing to WhatsApp Bot with Chatbot
+# Contributing to WhatsApp Bot with Chatbot, DALLE-2, Meme Generation, and Image-to-Sticker Conversio
