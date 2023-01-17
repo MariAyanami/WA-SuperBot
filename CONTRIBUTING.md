@@ -4,4 +4,5 @@ Thank you for your interest in contributing to this project! As an open-source p
 
 ## Getting Started
 1. Fork the repository
-2. Clone the repository to your lo
+2. Clone the repository to your local machine
+3. Install the necessary dependencies by
