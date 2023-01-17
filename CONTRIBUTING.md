@@ -7,4 +7,5 @@ Thank you for your interest in contributing to this project! As an open-source p
 2. Clone the repository to your local machine
 3. Install the necessary dependencies by running `npm install`
 4. Create a new branch for your changes using `git checkout -b feature/your-feature-name`
-5. Make 
+5. Make your changes and commit them with a descriptive commit message
+6
