@@ -9,4 +9,7 @@ Thank you for your interest in contributing to this project! As an open-source p
 4. Create a new branch for your changes using `git checkout -b feature/your-feature-name`
 5. Make your changes and commit them with a descriptive commit message
 6. Push your changes to your forked repository
-7. Create a pull r
+7. Create a pull request to the main repository's develop branch
+
+## Issues
+If you notice a 
