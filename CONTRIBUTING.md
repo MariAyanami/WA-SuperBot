@@ -12,4 +12,4 @@ Thank you for your interest in contributing to this project! As an open-source p
 7. Create a pull request to the main repository's develop branch
 
 ## Issues
-If you notice a 
+If you notice a bug or want to request a new feature, please create an issue on t
