@@ -18,4 +18,6 @@ If you notice a bug or want to request a new feature, please create an issue on 
 When submitting a pull request, please ensure that your changes:
 - Follow the existing coding style
 - Include tests for any new functionality
-- Incl
+- Include documentation updates as necessary
+
+Please als
