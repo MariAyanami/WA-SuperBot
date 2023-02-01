@@ -20,4 +20,4 @@ When submitting a pull request, please ensure that your changes:
 - Include tests for any new functionality
 - Include documentation updates as necessary
 
-Please als
+Please also make sure that your code builds and passes the existin
