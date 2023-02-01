@@ -15,4 +15,5 @@ Thank you for your interest in contributing to this project! As an open-source p
 If you notice a bug or want to request a new feature, please create an issue on the GitHub repository. Please include as much detail as possible, including how to reproduce the issue and any error messages that you encounter.
 
 ## Pull Requests
-When submitting a pu
+When submitting a pull request, please ensure that your changes:
+- Follow the 
