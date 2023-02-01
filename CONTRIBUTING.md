@@ -23,4 +23,4 @@ When submitting a pull request, please ensure that your changes:
 Please also make sure that your code builds and passes the existing tests.
 
 ## Code of Conduct
-Please review our [Code of
+Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this proje
