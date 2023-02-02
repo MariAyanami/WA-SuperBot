@@ -26,4 +26,4 @@ Please also make sure that your code builds and passes the existing tests.
 Please review our [Code of Conduct](./CODE_OF_CONDUCT.md) before contributing to this project.
 
 ## License
-By contributing to this project, you agree that your contributions will be licensed unde
+By contributing to this project, you agree that your contributions will be licensed under the MIT License.
