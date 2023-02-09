@@ -1,1 +1,3 @@
-const { Client, RemoteAuth, MessageMedia } = require(
+const { Client, RemoteAuth, MessageMedia } = require("whatsapp-web.js");
+const dotenv = require("dotenv");
+do
