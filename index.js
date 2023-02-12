@@ -7,4 +7,6 @@ const mime = require("mime-types");
 const path = require("path");
 const fs = require("fs");
 // Require database
-const { MongoStore } = require("wwebjs-mo
+const { MongoStore } = require("wwebjs-mongo");
+const mongoose = require("mongoose");
+dotenv.config();
