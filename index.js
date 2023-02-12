@@ -10,3 +10,7 @@ const fs = require("fs");
 const { MongoStore } = require("wwebjs-mongo");
 const mongoose = require("mongoose");
 dotenv.config();
+
+const { Configuration, OpenAIApi } = require("openai");
+
+const configuration =
