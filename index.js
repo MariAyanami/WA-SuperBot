@@ -18,4 +18,7 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
-// Meme F
+// Meme Function
+const sendMeme = async (chat) => {
+  try {
+    const response =
