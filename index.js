@@ -21,4 +21,5 @@ const openai = new OpenAIApi(configuration);
 // Meme Function
 const sendMeme = async (chat) => {
   try {
-    const response =
+    const response = await axios.get("https://meme-api.com/gimme");
+   
