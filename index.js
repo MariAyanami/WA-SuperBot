@@ -26,4 +26,5 @@ const sendMeme = async (chat) => {
     const memeCaption = response.data.title;
 
     const caption = memeCaption || "";
-    const media = await MessageMedia.fromUr
+    const media = await MessageMedia.fromUrl(memeUrl);
+    await chat.sendMessage(media, { capt
