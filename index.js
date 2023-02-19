@@ -36,4 +36,6 @@ const sendMeme = async (chat) => {
 // Load the session data
 mongoose.connect(process.env.MONGODB_URI).then(() => {
   const store = new MongoStore({ mongoose: mongoose });
-  const
+  const client = new Client({
+    authStrategy: new RemoteAuth({
+     
