@@ -45,4 +45,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
   // QR Code
   client.on("qr", (qr) => {
-    qrco
+    qrcode.generate(qr, { small: true });
+  });
+
+  client.on(
