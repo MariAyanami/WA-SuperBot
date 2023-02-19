@@ -27,4 +27,10 @@ const sendMeme = async (chat) => {
 
     const caption = memeCaption || "";
     const media = await MessageMedia.fromUrl(memeUrl);
-    await chat.sendMessage(media, { capt
+    await chat.sendMessage(media, { caption });
+  } catch (error) {
+    console.error(error);
+  }
+};
+
+// Load 
