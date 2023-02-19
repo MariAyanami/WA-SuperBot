@@ -39,4 +39,10 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
   const client = new Client({
     authStrategy: new RemoteAuth({
       store: store,
-      backupSyncIntervalMs: 1000000
+      backupSyncIntervalMs: 1000000,
+    }),
+  });
+
+  // QR Code
+  client.on("qr", (qr) => {
+    qrco
