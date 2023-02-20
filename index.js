@@ -51,4 +51,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
   client.on("ready", () => {
     console.log("Client is ready!");
   });
-  
+  client.on("remote_session_saved", () => {
+    consol
