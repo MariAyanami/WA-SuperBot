@@ -55,4 +55,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
     console.log("Remote session saved");
   });
 
-  client.on("message", async 
+  client.on("message", async (message) => {
+    let chat = await message.getChat
