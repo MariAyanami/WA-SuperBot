@@ -75,4 +75,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
               const extension = mime.extension(media.mimetype);
 
-              const fi
+              const filename = new Date().getTime();
+
+              const fullFile
