@@ -60,4 +60,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
     // Group Chat
     if (chat.isGroup) {
-      l
+      let grpid = chat.id._serialized;
+      console.log("Group ID: " + grp
