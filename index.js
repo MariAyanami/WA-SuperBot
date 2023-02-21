@@ -77,4 +77,4 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
               const filename = new Date().getTime();
 
-              const fullFile
+              const fullFilename = mediaPath + filename + "." + extensio
