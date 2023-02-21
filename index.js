@@ -64,4 +64,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
       console.log("Group ID: " + grpid);
 
       if (message.body === "-sticker") {
-        i
+        if (message.hasMedia) {
+          message.downloadMedi
