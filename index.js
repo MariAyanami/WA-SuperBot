@@ -70,4 +70,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
               const mediaPath = "./downloaded-media/";
 
               if (!fs.existsSync(mediaPath)) {
-                fs.mkdirSync(me
+                fs.mkdirSync(mediaPath);
+              }
+
+              const extension
