@@ -65,4 +65,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
       if (message.body === "-sticker") {
         if (message.hasMedia) {
-          message.downloadMedi
+          message.downloadMedia().then((media) => {
+            if (media) {
+              c
