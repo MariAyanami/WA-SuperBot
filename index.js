@@ -81,4 +81,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
               // Save to file
               try {
-                fs.writeFileSync(fullFilename, media.data
+                fs.writeFileSync(fullFilename, media.data, {
+                  encoding: "base64",
+                });
+ 
