@@ -85,4 +85,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                   encoding: "base64",
                 });
                 console.log("File downloaded successfully!", fullFilename);
-                console.log(fullFilenam
+                console.log(fullFilename);
+                MessageMedia.fromFilePath((fil
