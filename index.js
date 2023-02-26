@@ -84,4 +84,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                 fs.writeFileSync(fullFilename, media.data, {
                   encoding: "base64",
                 });
-                console.log("File downloaded successfull
+                console.log("File downloaded successfully!", fullFilename);
+                console.log(fullFilenam
