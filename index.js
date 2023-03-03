@@ -101,4 +101,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                 console.log("Failed to save the file:", err);
                 console.log(`File Deleted successfully!`);
               }
-       
+            }
+          });
+        } else {
+          message.reply(`send ima
