@@ -95,4 +95,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                     sendMediaAsSticker: true,
                   }
                 );
-       
+                fs.unlinkSync(fullFilename);
+          
