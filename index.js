@@ -104,4 +104,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             }
           });
         } else {
-          message.reply(`send ima
+          message.reply(`send image with caption *-sticker* `);
+        }
+      } else if (m
