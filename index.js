@@ -111,4 +111,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         const randomNumber = Math.floor(Math.random() * apiData.data.length);
         message.reply(`*${apiData.data[randomNumber].text}*`);
       } else if (message.body === "-ping") {
-        return message.reply("pong"
+        return message.reply("pong");
+      } else if (message.body === "-meme") {
+      
