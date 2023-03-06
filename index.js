@@ -106,4 +106,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         } else {
           message.reply(`send image with caption *-sticker* `);
         }
-      } else if (m
+      } else if (message.body === "-quote") {
+        const apiData = awa
