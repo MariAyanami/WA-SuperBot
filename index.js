@@ -107,4 +107,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           message.reply(`send image with caption *-sticker* `);
         }
       } else if (message.body === "-quote") {
-        const apiData = awa
+        const apiData = await axios.get("https://type.fit/api/quotes");
+   
