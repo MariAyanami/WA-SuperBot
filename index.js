@@ -109,4 +109,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
       } else if (message.body === "-quote") {
         const apiData = await axios.get("https://type.fit/api/quotes");
         const randomNumber = Math.floor(Math.random() * apiData.data.length);
-        message.reply(`*${apiDat
+        message.reply(`*${apiData.data[randomNumber].text}*`);
+      } else if (message.body
