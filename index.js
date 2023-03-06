@@ -113,4 +113,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
       } else if (message.body === "-ping") {
         return message.reply("pong");
       } else if (message.body === "-meme") {
-      
+        try {
+          const chat = await client.get
