@@ -114,4 +114,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         return message.reply("pong");
       } else if (message.body === "-meme") {
         try {
-          const chat = await client.get
+          const chat = await client.getChatById(message.from);
+          await sendMeme(chat);
+        } cat
