@@ -127,4 +127,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             prompt: `tell me ${prompt}`,
             temperature: 0.7,
             max_tokens: 3000,
-   
+            top_p: 1.0,
+            frequency_penalty: 0
