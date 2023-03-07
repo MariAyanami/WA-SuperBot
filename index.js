@@ -116,4 +116,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         try {
           const chat = await client.getChatById(message.from);
           await sendMeme(chat);
-        } cat
+        } catch (err) {
+          console.log(err);
+        }
+      } e
