@@ -133,4 +133,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           });
 
           return await message.reply(
-            response.
+            response.data.choices[0].text.substring(2)
+          );
+        } catch (err) 
