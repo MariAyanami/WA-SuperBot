@@ -131,3 +131,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             frequency_penalty: 0.2,
             presence_penalty: 0,
           });
+
+          return await message.reply(
+            response.
