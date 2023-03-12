@@ -140,4 +140,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           console.log(err);
         }
       } else if (message.body === "-ping") {
-     
+        return message.reply("pong");
+      } else if
