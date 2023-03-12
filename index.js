@@ -135,4 +135,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           return await message.reply(
             response.data.choices[0].text.substring(2)
           );
-        } catch (err) 
+        } catch (err) {
+          await message.reply("Something went wrong");
+          console.log
