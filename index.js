@@ -137,4 +137,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           );
         } catch (err) {
           await message.reply("Something went wrong");
-          console.log
+          console.log(err);
+        }
+      } else if (message.body === "-ping") {
+     
