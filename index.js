@@ -143,4 +143,4 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         return message.reply("pong");
       } else if (message.body === "-help") {
         return message.reply(
-          "Hi, I am a bot that can help you search the interne
+          "Hi, I am a bot that can help you search the internet. To use me, just type -search and then your question. For example, -
