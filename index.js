@@ -146,4 +146,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           "Hi, I am a bot that can help you search the internet. To use me, just type -search and then your question. For example, -search what is the capital of India?"
         );
       } else if (message.body === "-about") {
-        return 
+        return message.reply(
+          "Hi, I am a bot that can help y
