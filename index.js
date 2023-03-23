@@ -161,4 +161,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
   -help
   -about
   -sticker <in image caption>
-  -c
+  -commands
+  -image <input>`
+        );
+      } else i
