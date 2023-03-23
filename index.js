@@ -159,4 +159,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
   -meme
   -quote
   -help
-  -
+  -about
+  -sticker <in image caption>
+  -c
