@@ -172,4 +172,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             n: 1,
             size: "1024x1024",
           });
-          imag
+          image_url = response.data.data[0].url;
+
+          const media =
