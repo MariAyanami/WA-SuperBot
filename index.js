@@ -174,4 +174,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           });
           image_url = response.data.data[0].url;
 
-          const media =
+          const media = await MessageMedia.fromUrl(image_url);
+          return awa
