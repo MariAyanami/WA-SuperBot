@@ -177,4 +177,10 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           const media = await MessageMedia.fromUrl(image_url);
           return await client.sendMessage(message.from, message.reply(media));
         } catch (error) {
-          await message.reply("Something went wrong")
+          await message.reply("Something went wrong");
+          console.log(error);
+        }
+      }
+    }
+
+  
