@@ -185,4 +185,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
     // Personal Chat
     if (!chat.isGroup) {
-      if (message.hasMedia) 
+      if (message.hasMedia) {
+        message.downloadMedia().then((media) => 
