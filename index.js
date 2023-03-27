@@ -189,4 +189,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         message.downloadMedia().then((media) => {
           if (media) {
             try {
-            
+              const mediaPath = "./downloaded-media/";
+
+              i
