@@ -203,4 +203,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
               // Save to file
               try {
-                fs.wri
+                fs.writeFileSync(fullFilename, media.data, {
+            
