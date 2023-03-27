@@ -195,4 +195,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                 fs.mkdirSync(mediaPath);
               }
 
-              const extensio
+              const extension = mime.extension(media.mimetype);
+
+              con
