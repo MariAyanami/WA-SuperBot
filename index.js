@@ -199,4 +199,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
               const filename = new Date().getTime();
 
-              const ful
+              const fullFilename = mediaPath + filename + "." + extension;
+
+       
