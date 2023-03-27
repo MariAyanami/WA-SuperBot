@@ -201,4 +201,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
               const fullFilename = mediaPath + filename + "." + extension;
 
-       
+              // Save to file
+              try {
+                fs.wri
