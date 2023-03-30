@@ -210,4 +210,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                 console.log(fullFilename);
                 MessageMedia.fromFilePath((filePath = fullFilename));
 
-                client.sendM
+                client.sendMessage(
+                  message.from,
+                  new Me
