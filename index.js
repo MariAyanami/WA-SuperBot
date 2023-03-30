@@ -208,4 +208,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                 });
                 console.log("File downloaded successfully!", fullFilename);
                 console.log(fullFilename);
-                MessageMedia.fromFilePath((filePath
+                MessageMedia.fromFilePath((filePath = fullFilename));
+
+                client.sendM
