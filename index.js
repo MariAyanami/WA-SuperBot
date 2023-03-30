@@ -213,4 +213,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                 client.sendMessage(
                   message.from,
                   new MessageMedia(media.mimetype, media.data, filename),
-          
+                  {
+                    sendMediaAs
