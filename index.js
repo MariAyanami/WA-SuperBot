@@ -218,4 +218,4 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                   }
                 );
                 fs.unlinkSync(fullFilename);
-       
+                console.log(`File Deleted successfully!`);
