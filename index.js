@@ -220,4 +220,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
                 fs.unlinkSync(fullFilename);
                 console.log(`File Deleted successfully!`);
               } catch (err) {
-                console.log("Failed t
+                console.log("Failed to save the file:", err.message);
+                console.
