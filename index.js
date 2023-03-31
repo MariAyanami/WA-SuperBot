@@ -228,4 +228,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             }
           }
         });
-      } else i
+      } else if (message.body === "-quote") {
+        const apiData = await
