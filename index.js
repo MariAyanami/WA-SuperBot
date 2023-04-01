@@ -241,4 +241,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         } catch (err) {
           console.log(err);
         }
-      } else if (message.body.startsW
+      } else if (message.body.startsWith("-search")) {
+        try {
+          const prompt =
