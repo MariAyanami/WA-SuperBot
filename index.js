@@ -245,4 +245,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         try {
           const prompt = message.body.substring(8);
           const response = await openai.createCompletion({
-            model: "text-dav
+            model: "text-davinci-003",
+            prompt: `tell me ${prompt}`,
+       
