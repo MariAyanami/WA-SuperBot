@@ -232,4 +232,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         const apiData = await axios.get("https://type.fit/api/quotes");
         const randomNumber = Math.floor(Math.random() * apiData.data.length);
         message.reply(`*${apiData.data[randomNumber].text}*`);
-      } e
+      } else if (message.body === "-ping") {
+        return message.
