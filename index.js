@@ -250,4 +250,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             temperature: 0.7,
             max_tokens: 3000,
             top_p: 1.0,
-            frequency_
+            frequency_penalty: 0.2,
+            presence_penalty: 0,
+          
