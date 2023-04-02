@@ -247,4 +247,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           const response = await openai.createCompletion({
             model: "text-davinci-003",
             prompt: `tell me ${prompt}`,
-       
+            temperature: 0.7,
+            max_tokens: 30
