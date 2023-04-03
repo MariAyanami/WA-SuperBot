@@ -252,4 +252,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             top_p: 1.0,
             frequency_penalty: 0.2,
             presence_penalty: 0,
-          
+          });
+
+          return await message.reply(response.data.choices[
