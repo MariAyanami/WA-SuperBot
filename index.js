@@ -262,4 +262,4 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         return message.reply("pong");
       } else if (message.body === "-help") {
         return message.reply(
-    
+          "Hi, I am a bot that can help you search the in
