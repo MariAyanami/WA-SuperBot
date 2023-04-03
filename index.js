@@ -254,4 +254,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             presence_penalty: 0,
           });
 
-          return await message.reply(response.data.choices[
+          return await message.reply(response.data.choices[0]);
+        } catch (err) {
+          console.log(err);
