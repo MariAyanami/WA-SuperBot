@@ -286,4 +286,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
       } else if (message.body.startsWith("-imagine")) {
         try {
           const prompt = message.body.substring(7);
+          const response = await openai.createImage({
       
