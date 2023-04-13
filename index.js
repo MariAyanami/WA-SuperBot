@@ -287,4 +287,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         try {
           const prompt = message.body.substring(7);
           const response = await openai.createImage({
-      
+            prompt: prompt,
+            n: 1,
+            size: 
