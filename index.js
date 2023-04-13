@@ -275,4 +275,8 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
       } else if (message.body === "-commands") {
         return message.reply(
           `-search <input>
-  
+  -meme
+  -quote
+  -help
+  -about
+  -sticker <in image 
