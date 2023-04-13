@@ -284,4 +284,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
   -imagine <input>`
         );
       } else if (message.body.startsWith("-imagine")) {
-        
+        try {
+          const prompt = message.body.substring(7);
+      
