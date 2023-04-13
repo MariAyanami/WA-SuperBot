@@ -289,4 +289,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           const response = await openai.createImage({
             prompt: prompt,
             n: 1,
-            size: 
+            size: "1024x1024",
+          });
+          image_url = response.data.da
