@@ -294,4 +294,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           image_url = response.data.data[0].url;
 
           const media = await MessageMedia.fromUrl(image_url);
-          return await client.sendMessage(message.f
+          return await client.sendMessage(message.from, message.reply(media));
+        } catch (error) {
+     
