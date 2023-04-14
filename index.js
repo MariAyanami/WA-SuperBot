@@ -297,4 +297,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           return await client.sendMessage(message.from, message.reply(media));
         } catch (error) {
           await message.reply("Something went wrong");
-          c
+          console.log(error);
+        }
+      } else if (
+       
