@@ -300,4 +300,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
           console.log(error);
         }
       } else if (
+        !message.body === "-sticker" ||
+        !message.body === "-quote" ||
        
