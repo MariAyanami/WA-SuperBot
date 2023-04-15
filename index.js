@@ -305,4 +305,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         !message.body === "-ping" ||
         !message.body === "-help" ||
         !message.body === "-about" ||
-        
+        !message.body === "-test" ||
+        !message.body === "-commands"
