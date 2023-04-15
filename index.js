@@ -303,4 +303,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         !message.body === "-sticker" ||
         !message.body === "-quote" ||
         !message.body === "-ping" ||
-        !message.b
+        !message.body === "-help" ||
+        !message.body === "-about" ||
+        
