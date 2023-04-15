@@ -302,4 +302,5 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
       } else if (
         !message.body === "-sticker" ||
         !message.body === "-quote" ||
-       
+        !message.body === "-ping" ||
+        !message.b
