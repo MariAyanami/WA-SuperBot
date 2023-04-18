@@ -308,4 +308,7 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         !message.body === "-test" ||
         !message.body === "-commands" ||
         !message.body.startsWith("-imagine")
-   
+      ) {
+        try {
+          const prompt = message.body;
+        
