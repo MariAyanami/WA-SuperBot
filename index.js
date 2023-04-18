@@ -306,4 +306,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
         !message.body === "-help" ||
         !message.body === "-about" ||
         !message.body === "-test" ||
-        !message.body === "-commands"
+        !message.body === "-commands" ||
+        !message.body.startsWith("-imagine")
+   
