@@ -315,4 +315,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             model: "text-davinci-003",
             prompt: prompt,
             temperature: 0.7,
-            max_toke
+            max_tokens: 3000,
+            top_p: 1.0,
+            frequ
