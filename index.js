@@ -329,4 +329,9 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
     }
   });
 
-  client.ini
+  client.initialize();
+});
+
+const connection = mongoose.connection;
+
+connectio
