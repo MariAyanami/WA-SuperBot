@@ -318,4 +318,6 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
             max_tokens: 3000,
             top_p: 1.0,
             frequency_penalty: 0.2,
-            presence_penalty:
+            presence_penalty: 0,
+          });
+          return await message.reply(respo
