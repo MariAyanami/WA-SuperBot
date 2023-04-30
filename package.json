@@ -5,4 +5,5 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "s
+    "start": "node index",
+    "test": "echo \"Error: no t
