@@ -21,4 +21,6 @@
     "sharp": "^0.31.3",
     "wa-sticker-formatter": "^4.4.4",
     "whatsapp-web.js": "^1.19.4",
-    "wwebjs-mongo": "^1.
+    "wwebjs-mongo": "^1.1.0"
+  }
+}
