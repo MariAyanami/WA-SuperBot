@@ -7,4 +7,6 @@ Developed by MariAyanami, this is a Node.js-based WhatsApp bot built using the w
 - **DALL-E 2 Image Generation**: Generate images spontaneously with the help of DALL-E 2 neural network.
 - **Meme Generation**: Create memes on-the-go using popular templates and self-produced captions.
 - **Image-to-Sticker Conversion**: Convert uploaded images into high-quality stickers to share in chats.
-- **Multifaceted Bot**: Enjoy all of these features in one intuitive package, making your Wh
+- **Multifaceted Bot**: Enjoy all of these features in one intuitive package, making your WhatsApp chats even more interactive.
+
+## Installat
