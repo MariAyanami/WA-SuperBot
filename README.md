@@ -4,4 +4,4 @@ Developed by MariAyanami, this is a Node.js-based WhatsApp bot built using the w
 
 ## Features
 
-- **DALL-E 2 I
+- **DALL-E 2 Image Generation**: Generate images spontaneously with the help o
