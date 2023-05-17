@@ -9,4 +9,7 @@ Developed by MariAyanami, this is a Node.js-based WhatsApp bot built using the w
 - **Image-to-Sticker Conversion**: Convert uploaded images into high-quality stickers to share in chats.
 - **Multifaceted Bot**: Enjoy all of these features in one intuitive package, making your WhatsApp chats even more interactive.
 
-## Installat
+## Installation
+Simple installation steps are provided below:
+
+1.
