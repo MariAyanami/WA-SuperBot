@@ -14,4 +14,5 @@ Simple installation steps are provided below:
 
 1. Begin by cloning the repository
 2. Make sure to install the necessary packages by running `npm install`
-3. Create a `.
+3. Create a `.env` file with the mandatory fields like
+   - `MONGODB_URI`: Mong
