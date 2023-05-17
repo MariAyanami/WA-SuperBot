@@ -12,4 +12,5 @@ Developed by MariAyanami, this is a Node.js-based WhatsApp bot built using the w
 ## Installation
 Simple installation steps are provided below:
 
-1.
+1. Begin by cloning the repository
+2. Make sure to install the
