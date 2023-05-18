@@ -17,4 +17,7 @@ Simple installation steps are provided below:
 3. Create a `.env` file with the mandatory fields like
    - `MONGODB_URI`: MongoDB connection string
    - `API_KEY`: OpenAI API key
-4. To initiate the chatbot, simply Run 
+4. To initiate the chatbot, simply Run `npm start`
+
+## Usage
+Follow below steps for easy
