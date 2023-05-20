@@ -22,4 +22,5 @@ Simple installation steps are provided below:
 ## Usage
 Follow below steps for easy usage:
 
-1. Add the chatbot's phone number to your 
+1. Add the chatbot's phone number to your contacts
+2. Scan the QR code that appears in the console thro
