@@ -20,4 +20,6 @@ Simple installation steps are provided below:
 4. To initiate the chatbot, simply Run `npm start`
 
 ## Usage
-Follow below steps for easy
+Follow below steps for easy usage:
+
+1. Add the chatbot's phone number to your 
