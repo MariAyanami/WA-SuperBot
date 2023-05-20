@@ -23,4 +23,5 @@ Simple installation steps are provided below:
 Follow below steps for easy usage:
 
 1. Add the chatbot's phone number to your contacts
-2. Scan the QR code that appears in the console thro
+2. Scan the QR code that appears in the console through your WhatsApp app
+3. Just by sending a message to the chatbot, you can
