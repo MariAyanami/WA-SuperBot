@@ -27,4 +27,4 @@ Follow below steps for easy usage:
 3. Just by sending a message to the chatbot, you can start using it
 
 ## Contributing
-We highly appreciate your interest in contributing to this project! As it's an open-source 
+We highly appreciate your interest in contributing to this project! As it's an open-source initiative, we welcome contributions from anyone. When 
