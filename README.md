@@ -33,4 +33,7 @@ We highly appreciate your interest in contributing to this project! As it's an o
 While submitting a pull, kindly ensure that your changes adhere to the coding style, come with tests for any updated functionality, and include necessary documentation upgrades. Your PR should comply with the build and pass the present tests.
 
 ## Know a bug or want to suggest a feature?
-If you identify any bug or have a feature request, you're welcome to create an issue on the GitHub repository. While doing so, please share as much detail as possible, including the steps to recreate the issue and any encountered error mess
+If you identify any bug or have a feature request, you're welcome to create an issue on the GitHub repository. While doing so, please share as much detail as possible, including the steps to recreate the issue and any encountered error messages.
+
+## License
+This Project is granted under the MIT License.
